@@ -1,0 +1,4 @@
+/bet_warehouse/__pycache__
+/bet_warehouse/migrations
+/ubp_django/__pycache__
+*.pyc
